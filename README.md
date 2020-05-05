@@ -8,17 +8,22 @@ CultureGraph vorgenommen.
 
 Die Daten und [Erläuterungen](DE-290.md) dazu befinden sich in diesem Repositorium.
 
-Die Software, mit der diese Daten erzeugt wurden, befindet sich unter https://github.com/hagbeck/virtsys
+Die Software, mit der diese Daten erzeugt wurden, befindet sich unter 
+[https://github.com/hagbeck/virtsys](https://github.com/hagbeck/virtsys)
 
 **Ansprechpartner:**
 
-Dipl.-Math. Hans-Georg Becker (M.L.I.S.)\
-ORCID iD https://orcid.org/0000-0003-0432-294X
+Dipl.-Math. Hans-Georg Becker (M.L.I.S.)
 
-Technische Universität Dortmund\
-Universitätsbibliothek\
-Informationssysteme und Datenmanagement\
-https://www.ub.tu-dortmund.de
+ORCID iD [https://orcid.org/0000-0003-0432-294X](https://orcid.org/0000-0003-0432-294X)
+
+Technische Universität Dortmund
+
+Universitätsbibliothek
+
+Informationssysteme und Datenmanagement
+
+[https://www.ub.tu-dortmund.de](https://www.ub.tu-dortmund.de)
 
 # License
 
