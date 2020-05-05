@@ -2,11 +2,13 @@
 
 **Stand der Daten:** 09-2019; CultureGraph Sommer 2019
 
-In diesem Repositorium sind alle Daten erfasst, welche zur Abdeckungsanalyse für die Verwendung von CultureGraph-Daten zwecks Anreicherung der Metadaten zum Bestand der Universitätsbibliothek mit Notationen der Regensburger Verbundklassifikation (RVK) erzeugt wurden.
+Für die Anreicherung der Metadaten zum Bestand der Universitätsbibliothek Dortmund mit Notationen 
+der Regensburger Verbundklassifikation (RVK) wurde eine Abdeckungsanalyse mit den Daten von 
+CultureGraph vorgenommen.
 
-Die Software, mit der diese Daten erzeugt wurden, befindet sich im Repositorium ...
+Die Daten und [Erläuterungen](DE-290.md) dazu befinden sich in diesem Repositorium.
 
-[Erläuterungen zu den Daten](DE-290.md)
+Die Software, mit der diese Daten erzeugt wurden, befindet sich unter https://github.com/hagbeck/virtsys
 
 **Ansprechpartner:**
 
